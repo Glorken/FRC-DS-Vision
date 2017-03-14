@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><classpath>
-	<classpathentry kind="src" path="src/main/java" />
-	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar" />
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" />
-	<classpathentry kind="lib" path="lib/cscore.jar" sourcepath="lib/cscore-sources.jar" />
-	<classpathentry kind="lib" path="lib/NetworkTables.jar" sourcepath="lib/NetworkTables-sources.jar" />
-	<classpathentry kind="lib" path="lib/opencv.jar" sourcepath="lib/opencv-sources.jar" />
-	<classpathentry kind="lib" path="lib/WPILib.jar" sourcepath="lib/WPILib-sources.jar" />
-	<classpathentry kind="output" path="bin" />
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/cscore.jar" sourcepath="lib/cscore-sources.jar"/>
+	<classpathentry kind="lib" path="lib/NetworkTables.jar" sourcepath="lib/NetworkTables-sources.jar"/>
+	<classpathentry kind="lib" path="lib/opencv.jar" sourcepath="lib/opencv-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
